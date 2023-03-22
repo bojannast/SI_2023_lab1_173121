@@ -21,6 +21,7 @@ public class SILab1 {
             }
         }
         return sum;
+
     }
 
     public static void main(String[] args) {
