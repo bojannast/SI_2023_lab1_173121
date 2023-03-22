@@ -21,6 +21,7 @@ public class SILab1 {
             }
         }
         return sum;
+
     }
 
     public static void main(String[] args) {
@@ -31,7 +32,7 @@ public class SILab1 {
         List<Integer> list = new ArrayList<>();
 
         for (int i = 0; i <= n; i++) {
-            list.add(i);
+            list.add(i); 
         }
 
         System.out.println(filterOddNumbers(list));
