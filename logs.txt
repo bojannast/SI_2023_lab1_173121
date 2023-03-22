@@ -1,0 +1,88 @@
+commit 4f154f014652ded75dc3ac29c7886b373555547d
+Merge: 09343e4 e6a296f
+Author: Bojan Nastovski <bojannastovski@gmail.com>
+Date:   Wed Mar 22 21:25:34 2023 +0100
+
+    Merge branch 'bug1'
+
+commit e6a296f00f39101f8e89a1833dd83cef732c3b56
+Author: Bojan Nastovski <bojannastovski@gmail.com>
+Date:   Wed Mar 22 21:25:12 2023 +0100
+
+    Fixed problemss
+
+commit 09343e44e503e1623fef5f8094821d38d0b2d44c
+Merge: 8204e4b ab31855
+Author: Bojan Nastovski <bojannastovski@gmail.com>
+Date:   Wed Mar 22 21:24:11 2023 +0100
+
+    Fixed problemss
+
+commit ab31855a99b74865ba43e6a77e22f390ac10a6e0
+Author: Bojan Nastovski <bojannastovski@gmail.com>
+Date:   Wed Mar 22 21:22:14 2023 +0100
+
+    Fixed problems
+
+commit 8204e4b65d9e1f4f07a1daa4ec0cfa5bf4893b00
+Merge: 5f0cd23 893c943
+Author: Bojan Nastovski <bojannastovski@gmail.com>
+Date:   Wed Mar 22 21:20:15 2023 +0100
+
+    Fixed issues in SILab1.java
+
+commit 5f0cd233e0ffcfdf651461c8e8f600bf9abd2b55
+Author: Bojan Nastovski <bojannastovski@gmail.com>
+Date:   Wed Mar 22 21:19:00 2023 +0100
+
+    Fixed issues in SILab1.java
+
+commit 893c94378be1b5858456f562ada7a56fc8a80728
+Merge: 937ff23 74fdf88
+Author: Bojan Nastovski <bojannastovski@gmail.com>
+Date:   Wed Mar 22 21:05:21 2023 +0100
+
+    Merge branch 'bug2'
+
+commit c482664f7b8eaa3c290afa5302eda97d87224061
+Author: Bojan Nastovski <bojannastovski@gmail.com>
+Date:   Wed Mar 22 20:37:56 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit 74fdf8852ee0d81bfc6a6a42b528a9456d162ddd
+Author: Bojan Nastovski <bojannastovski@gmail.com>
+Date:   Wed Mar 22 20:36:48 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit 937ff23492b220bc4603a24e766076f8ba833576
+Author: Bojan Nastovski <bojannastovski@gmail.com>
+Date:   Wed Mar 22 20:30:51 2023 +0100
+
+    Fix wrong loop for reading
+
+commit 85dd232d170d2e1cb9d86b821f8a904f38c13f4e
+Merge: 23c469a d890a3b
+Author: Bojan Nastovski <bojannastovski@gmail.com>
+Date:   Wed Mar 22 19:57:01 2023 +0100
+
+    Merge branch 'master' of https://github.com/bojannast/SI_2023_lab1_173121
+
+commit 23c469a344670043e9c770650c3c8eb7dc4eefe0
+Author: Bojan Nastovski <bojannastovski@gmail.com>
+Date:   Wed Mar 22 19:43:50 2023 +0100
+
+    Add java class
+
+commit d890a3b2b1654733da33aa6ac5380bf006ee819b
+Author: bojannast <72553597+bojannast@users.noreply.github.com>
+Date:   Wed Mar 22 19:22:46 2023 +0100
+
+    Delete README.md
+
+commit e83c12b71a8f38e7e3cb1dcf766eb06cc8cd68eb
+Author: bojannast <72553597+bojannast@users.noreply.github.com>
+Date:   Wed Mar 22 19:09:43 2023 +0100
+
+    Initial commit
